@@ -1,0 +1,1096 @@
+{
+  "schemaVersion": 1,
+  "revision": 3,
+  "name": "历史新闻与文化素材·32条核验题",
+  "publishedOn": "2026-10-03",
+  "questions": [
+    {
+      "id": "r-moon",
+      "title": "来自月背的“快递”，这次称重了！",
+      "category": "太空发现",
+      "source": "国家航天局 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.cnsa.gov.cn/n6758823/n6758838/c10567320/content.html",
+      "verification": "verified-primary",
+      "originalTitle": "嫦娥六号带回1935.3克月球样品 交接至地面应用系统",
+      "eventDate": "2024-06-28",
+      "options": [
+        "嫦娥六号带回的月球样品",
+        "火星车寄回的岩石",
+        "空间站回收的废旧电池",
+        "地球陨石拍卖的样品"
+      ],
+      "correct": 0,
+      "body": "2024年6月，嫦娥六号返回器带回月球背面样品。交接仪式公布的样品重量是1935.3克。",
+      "joke": "来自月背的是样品，可不是快递员。",
+      "trick": "找回对象，再看数量。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "找回对象，再看数量。",
+        "fact": "嫦娥六号带回的是月球背面样品，交接时测得1935.3克。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "国家航天局：正文依据",
+            "url": "https://www.cnsa.gov.cn/n6758823/n6758838/c10567320/content.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-mars",
+      "title": "“它”和自己的着陆平台，合了张影",
+      "category": "太空发现",
+      "source": "国家航天局 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.cnsa.gov.cn/n6758824/n6759009/n6760412/n6760413/c6840380/content.html",
+      "verification": "verified-primary",
+      "originalTitle": "天问一号探测器着陆火星首批科学影像图揭幕",
+      "eventDate": "2021-06-11",
+      "options": [
+        "月球车和空间站的合影",
+        "祝融号火星车与着陆平台的合影",
+        "宇航员在火星的自拍",
+        "地球卫星与火星的同时合影"
+      ],
+      "correct": 1,
+      "body": "2021年6月发布的“着巡合影”，由祝融号释放的分离相机拍摄。画面是火星车和它的着陆平台。",
+      "joke": "自拍杆没上场，分离相机立了功。",
+      "trick": "拟人化不等于有人在现场。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "拟人化不等于有人在现场。",
+        "fact": "“着巡合影”由分离相机拍摄，再经火星车与环绕器传回地面。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "国家航天局：正文依据",
+            "url": "https://www.cnsa.gov.cn/n6758824/n6759009/n6760412/n6760413/c6840380/content.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-qinling",
+      "title": "名字听着很近，开站的地方却很冷",
+      "category": "极地见闻",
+      "source": "生态环境部转载新华社 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.mee.gov.cn/ywdt/szyw/202402/t20240207_1066019.shtml",
+      "verification": "verified-primary",
+      "originalTitle": "中国南极秦岭站建成并投入使用",
+      "eventDate": "2024-02-07",
+      "options": [
+        "秦岭山里的新高铁站",
+        "西安的一座冷库",
+        "南极罗斯海区域的秦岭考察站",
+        "北极的一座滑雪站"
+      ],
+      "correct": 2,
+      "body": "2024年2月，秦岭站在南极罗斯海恩克斯堡岛建成并投入使用，是中国第五个南极考察站。",
+      "joke": "名字在秦岭，地址在南极。",
+      "trick": "地名可能是命名，不是地址。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "地名可能是命名，不是地址。",
+        "fact": "秦岭站位于南极罗斯海恩克斯堡岛，不能靠站名推断所在地。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "生态环境部转载新华社：正文依据",
+            "url": "https://www.mee.gov.cn/ywdt/szyw/202402/t20240207_1066019.shtml"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-asian",
+      "title": "点火时，这位“搭档”没有实体身体",
+      "category": "城市文化",
+      "source": "中央网信办转载新华社 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.cac.gov.cn/2023-09/24/c_1697210828537304.htm",
+      "verification": "verified-primary",
+      "originalTitle": "第十九届亚洲运动会在杭州隆重开幕",
+      "eventDate": "2023-09-23",
+      "options": [
+        "飞行机器人代替所有运动员",
+        "水下演员点燃火炬",
+        "吉祥物独自点火",
+        "数字火炬手与汪顺共同点燃主火炬"
+      ],
+      "correct": 3,
+      "body": "2023年杭州亚运会开幕式上，汪顺与大屏幕中的数字火炬手共同点燃主火炬。数字形象由参与数字火炬传递的人汇聚而成。",
+      "joke": "赛场上的搭档，也可以来自屏幕。",
+      "trick": "分清真实人物与数字呈现。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "分清真实人物与数字呈现。",
+        "fact": "杭州亚运会的点火仪式结合了真人火炬手与数字火炬手。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "中央网信办转载新华社：正文依据",
+            "url": "https://www.cac.gov.cn/2023-09/24/c_1697210828537304.htm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-c919",
+      "title": "“首航”完成，这一次带的是普通旅客",
+      "category": "交通观察",
+      "source": "中国商飞 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://m.comac.cc/xw/202305/28/t20230528_7363000.html",
+      "verification": "verified-primary",
+      "originalTitle": "C919大型客机圆满完成首次商业飞行",
+      "eventDate": "2023-05-28",
+      "options": [
+        "C919首次商业航班由上海虹桥飞往北京首都",
+        "C919第一次试飞直接飞往月球",
+        "所有国内航班都改用C919",
+        "C919首个商业航班由成都飞往上海"
+      ],
+      "correct": 0,
+      "body": "2023年5月28日，C919执飞东方航空MU9191航班，从上海虹桥飞往北京首都，完成首次商业载客飞行。",
+      "joke": "“首飞”和“商业首航”，中间还有好多关。",
+      "trick": "里程碑要分清阶段。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "里程碑要分清阶段。",
+        "fact": "C919的首次试飞、获得型号合格证和首次商业飞行是不同阶段。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "中国商飞：正文依据",
+            "url": "https://m.comac.cc/xw/202305/28/t20230528_7363000.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-axis",
+      "title": "这条南北“线”，进入世界遗产名录",
+      "category": "城市文化",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1714/",
+      "verification": "verified-primary",
+      "originalTitle": "Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital",
+      "eventDate": "2024",
+      "options": [
+        "全国所有南北道路一起申遗",
+        "北京中轴线建筑群于2024年列入世界遗产",
+        "北京新增一条高铁线路",
+        "一根跨城通信光缆获奖"
+      ],
+      "correct": 1,
+      "body": "北京中轴线作为体现中国都城理想秩序的建筑群，于2024年列入世界遗产名录。这里的“线”指沿城市南北轴线组织的建筑与空间。",
+      "joke": "不是拿尺子画条线就能申遗。",
+      "trick": "称呼背后要找具体对象。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "称呼背后要找具体对象。",
+        "fact": "北京中轴线的遗产对象是建筑与城市空间的整体组合。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1714/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-spring",
+      "title": "这次“入选”，说的是怎么过年",
+      "category": "节庆习俗",
+      "source": "UNESCO非遗名录 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-traditional-new-year-02126",
+      "verification": "verified-primary",
+      "originalTitle": "Spring festival, social practices of the Chinese people in celebration of traditional new year",
+      "eventDate": "2024",
+      "options": [
+        "所有春节商品统一免税",
+        "春节假期自动增加一个月",
+        "春节相关社会实践列入人类非遗代表作名录",
+        "每家都必须用同一种年夜饭菜单"
+      ],
+      "correct": 2,
+      "body": "“春节——中国人庆祝传统新年的社会实践”于2024年列入人类非物质文化遗产代表作名录，涉及辞旧迎新、家庭团聚及相关习俗。",
+      "joke": "入选的是生活传统，不是放假通知。",
+      "trick": "文化消息不能自动变成政策变化。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "文化消息不能自动变成政策变化。",
+        "fact": "春节相关社会实践在2024年列入人类非物质文化遗产代表作名录。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO非遗名录：正文依据",
+            "url": "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-traditional-new-year-02126"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-fast",
+      "title": "这只“天眼”，主要是在听宇宙",
+      "category": "科学装置",
+      "source": "中国科学院 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://english.cas.cn/Special_Reports/rd/2016/202210/t20221019_321853.shtml",
+      "verification": "verified-primary",
+      "originalTitle": "World's Largest Single-aperture Radio Telescope Completed in Guizhou",
+      "eventDate": "2016-09-25",
+      "options": [
+        "一台专拍人像的相机",
+        "监测全城交通的摄像头",
+        "望远镜里住着一只机械眼睛",
+        "FAST是接收宇宙射电信号的500米口径望远镜"
+      ],
+      "correct": 3,
+      "body": "FAST于2016年9月25日在贵州落成。它是一座500米口径球面射电望远镜，用于接收来自宇宙的射电信号。",
+      "joke": "“天眼”听得很远，不是街头摄像头。",
+      "trick": "比喻名称不能代替设备用途。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "比喻名称不能代替设备用途。",
+        "fact": "FAST是射电望远镜；射电观测并不等于普通可见光拍照。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "中国科学院：正文依据",
+            "url": "https://english.cas.cn/Special_Reports/rd/2016/202210/t20221019_321853.shtml"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-quanzhou",
+      "title": "这座城入选，线索里有港口、古桥和窑址",
+      "category": "城市文化",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1561/",
+      "verification": "verified-primary",
+      "originalTitle": "Quanzhou: Emporium of the World in Song-Yuan China",
+      "eventDate": "2021",
+      "options": [
+        "泉州宋元时期海洋商贸相关遗产列入世界遗产",
+        "一座新购物中心获得建筑奖",
+        "所有港口统一改成博物馆",
+        "泉州现代商业街全部成为免税区"
+      ],
+      "correct": 0,
+      "body": "“泉州：宋元中国的世界海洋商贸中心”于2021年列入世界遗产。遗产包含宗教建筑、码头、古桥以及制瓷等生产遗址，呈现历史商贸网络。",
+      "joke": "这里的“商贸中心”，可不是新开的商场。",
+      "trick": "历史称号要连着年代看。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "历史称号要连着年代看。",
+        "fact": "泉州这项世界遗产呈现的是宋元时期海洋商贸与城市网络。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1561/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-webb",
+      "title": "第一次公布的这组“大片”，来自太空",
+      "category": "太空发现",
+      "source": "NASA · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://science.nasa.gov/missions/webb/nasa-reveals-webb-telescopes-first-images-of-unseen-universe/",
+      "verification": "verified-primary",
+      "originalTitle": "NASA Reveals Webb Telescope’s First Images of Unseen Universe",
+      "eventDate": "2022-07-12",
+      "options": [
+        "一部在火星实景拍摄的电影",
+        "韦布望远镜首批全彩科学图像和光谱数据",
+        "宇航员首次用手机拍到银河",
+        "已经确认外星城市的航拍照片"
+      ],
+      "correct": 1,
+      "body": "NASA于2022年7月发布韦布空间望远镜首批全彩科学图像与光谱数据，展示星系、星云等观测对象。这里的“大片”指科学影像。",
+      "joke": "画面震撼，不代表外星人出镜了。",
+      "trick": "图像漂亮与发现什么是两件事。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "图像漂亮与发现什么是两件事。",
+        "fact": "韦布首批发布内容不仅有图像，也有光谱数据。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "NASA：正文依据",
+            "url": "https://science.nasa.gov/missions/webb/nasa-reveals-webb-telescopes-first-images-of-unseen-universe/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-dart",
+      "title": "撞上去以后，“绕一圈”的时间变了",
+      "category": "太空发现",
+      "source": "NASA · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-confirms-dart-mission-impact-changed-asteroids-motion-in-space/",
+      "verification": "verified-primary",
+      "originalTitle": "NASA Confirms DART Mission Impact Changed Asteroid’s Motion in Space",
+      "eventDate": "2022-10-11",
+      "options": [
+        "地球一天缩短了32分钟",
+        "月球被撞出了地球轨道",
+        "DART试验改变了小行星Dimorphos绕伴星的轨道周期",
+        "太空飞船让所有小行星停止运动"
+      ],
+      "correct": 2,
+      "body": "NASA在2022年10月公布早期分析：DART撞击后，Dimorphos绕Didymos运行的周期缩短约32分钟。这是针对特定小行星系统的试验，不是地球时间变化。",
+      "joke": "变快的是那颗小行星，不是你的下班时间。",
+      "trick": "数字必须带上对象和测量范围。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "数字必须带上对象和测量范围。",
+        "fact": "2022年10月的早期分析给出约32分钟的周期变化，不能把它说成地球日长变化。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "NASA：正文依据",
+            "url": "https://www.nasa.gov/news-release/nasa-confirms-dart-mission-impact-changed-asteroids-motion-in-space/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-tea",
+      "title": "这一杯背后的手艺，入了非遗名录",
+      "category": "节庆习俗",
+      "source": "UNESCO非遗名录 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884",
+      "verification": "verified-primary",
+      "originalTitle": "Traditional tea processing techniques and associated social practices in China",
+      "eventDate": "2022",
+      "options": [
+        "所有茶饮品牌都获了同一个奖",
+        "喝茶从此必须使用统一茶杯",
+        "所有茶叶都改成一种工艺",
+        "中国传统制茶技艺及其相关习俗列入非遗名录"
+      ],
+      "correct": 3,
+      "body": "中国传统制茶技艺及其相关习俗于2022年列入人类非物质文化遗产代表作名录。内容涉及茶园管理、采摘、手工加工以及饮茶与分享的社会实践。",
+      "joke": "上榜的是手艺和习俗，不是奶茶店排行榜。",
+      "trick": "品牌榜单与文化遗产名录要分清。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "品牌榜单与文化遗产名录要分清。",
+        "fact": "这项非遗既包括制茶相关知识与技艺，也包括饮茶、分享等社会实践。",
+        "detail": "正文摘要根据所列来源独立整理。游戏标题、干扰项和吐槽为原创改写，不是来源原题；历史事件不表示今天的服务或政策。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO非遗名录：正文依据",
+            "url": "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-bennu",
+      "title": "这份太空包裹，落地后先住进洁净室",
+      "category": "太空发现",
+      "source": "NASA · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/",
+      "verification": "verified-primary",
+      "originalTitle": "NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room",
+      "eventDate": "2023-09-24",
+      "options": [
+        "贝努小行星的样品返回舱降落在犹他州",
+        "空间站的实验样品舱在佛罗里达回收",
+        "月球南极的冰样品首次送到实验室",
+        "火星尘埃通过无人货运飞船运回地球"
+      ],
+      "correct": 0,
+      "body": "2023年9月，OSIRIS-REx把贝努小行星的岩石和尘埃送回地球，样品舱降落在美国犹他州。",
+      "joke": "太空快递也得先防污染。",
+      "trick": "“返回”要看返回的是什么。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "“返回”要看返回的是什么。",
+        "fact": "2023年9月，OSIRIS-REx把贝努小行星的岩石和尘埃送回地球，样品舱降落在美国犹他州。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。未采用着陆时的样品估计重量，避免与后续实测重量混淆。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "NASA：正文依据",
+            "url": "https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-ingenuity",
+      "title": "起飞不到一分钟，却换了一颗星球",
+      "category": "太空发现",
+      "source": "NASA · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.nasa.gov/news-release/nasas-ingenuity-mars-helicopter-succeeds-in-historic-first-flight/",
+      "verification": "verified-primary",
+      "originalTitle": "NASA’s Ingenuity Mars Helicopter Succeeds in Historic First Flight",
+      "eventDate": "2021-04-19",
+      "options": [
+        "无人机在月球上完成首次自主起降",
+        "机智号直升机在火星完成约39.1秒的首飞",
+        "火星车用机械臂把相机短暂抛起",
+        "太空探测器在金星云层首次悬停"
+      ],
+      "correct": 1,
+      "body": "2021年4月19日，机智号直升机在火星完成首次有动力、受控飞行，全程约39.1秒。",
+      "joke": "时间很短，场地很远。",
+      "trick": "“首次”需要补全地点和动作。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "“首次”需要补全地点和动作。",
+        "fact": "2021年4月19日，机智号直升机在火星完成首次有动力、受控飞行，全程约39.1秒。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "NASA：正文依据",
+            "url": "https://www.nasa.gov/news-release/nasas-ingenuity-mars-helicopter-succeeds-in-historic-first-flight/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-orion",
+      "title": "绕月归来的它，最后选择了水里",
+      "category": "太空发现",
+      "source": "NASA · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.nasa.gov/blogs/artemis/2022/12/11/artemis-i-flight-day-26-orion-splashes-down-concluding-historic-artemis-i-mission/",
+      "verification": "verified-primary",
+      "originalTitle": "Artemis I – Flight Day 26: Orion splashes down, concluding historic Artemis I mission",
+      "eventDate": "2022-12-11",
+      "options": [
+        "国际空间站实验舱从近地轨道返回海面",
+        "月球着陆器在月面湖泊完成水上测试",
+        "猎户座飞船完成绕月任务后在太平洋溅落",
+        "火星返回舱在印度洋完成首次回收"
+      ],
+      "correct": 2,
+      "body": "2022年12月11日，执行阿尔忒弥斯一号任务的猎户座飞船在太平洋溅落，结束约25.5天的绕月任务。",
+      "joke": "回家路线的最后一站是海面。",
+      "trick": "任务名和着陆地点都不能省。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "任务名和着陆地点都不能省。",
+        "fact": "2022年12月11日，执行阿尔忒弥斯一号任务的猎户座飞船在太平洋溅落，结束约25.5天的绕月任务。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "NASA：正文依据",
+            "url": "https://www.nasa.gov/blogs/artemis/2022/12/11/artemis-i-flight-day-26-orion-splashes-down-concluding-historic-artemis-i-mission/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-pluto",
+      "title": "赶了九年路，只为从它身边经过",
+      "category": "太空发现",
+      "source": "NASA · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://science.nasa.gov/mission/new-horizons/",
+      "verification": "verified-primary",
+      "originalTitle": "New Horizons",
+      "eventDate": "2015-07-14",
+      "options": [
+        "卡西尼号进入冥王星轨道长期观测",
+        "旅行者二号在海王星表面软着陆",
+        "新视野号采集冥王星土壤后返航",
+        "新视野号飞掠冥王星并进行近距离观测"
+      ],
+      "correct": 3,
+      "body": "2015年7月14日，新视野号飞掠冥王星，进行近距离观测；这次任务是飞掠，并未在冥王星着陆。",
+      "joke": "经过也可以拍出重要照片。",
+      "trick": "飞掠、环绕和着陆是不同动作。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "飞掠、环绕和着陆是不同动作。",
+        "fact": "2015年7月14日，新视野号飞掠冥王星，进行近距离观测；这次任务是飞掠，并未在冥王星着陆。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "NASA：正文依据",
+            "url": "https://science.nasa.gov/mission/new-horizons/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-voyager",
+      "title": "跨过这道边界，还没到另一颗恒星",
+      "category": "太空发现",
+      "source": "NASA · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://science.nasa.gov/mission/voyager/questions-and-answers-with-dr-ed-stone/",
+      "verification": "verified-primary",
+      "originalTitle": "Questions and Answers with Dr. Ed Stone",
+      "eventDate": "2012-08-25",
+      "options": [
+        "旅行者一号跨过日球层边界进入星际空间",
+        "新视野号穿过小行星带首次抵达木星",
+        "旅行者二号已经进入另一颗恒星的轨道",
+        "哈勃望远镜离开地球轨道去观察太阳"
+      ],
+      "correct": 0,
+      "body": "NASA根据观测判断，旅行者一号于2012年8月25日进入星际空间。这并不表示它已经抵达另一颗恒星。",
+      "joke": "跨界成功，路还很长。",
+      "trick": "空间边界不等于目的地。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "空间边界不等于目的地。",
+        "fact": "NASA根据观测判断，旅行者一号于2012年8月25日进入星际空间。这并不表示它已经抵达另一颗恒星。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。星际空间以日球层边界为语境，不表示已经到达另一颗恒星。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "NASA：正文依据",
+            "url": "https://science.nasa.gov/mission/voyager/questions-and-answers-with-dr-ed-stone/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-cassini",
+      "title": "最后一段旅程，它直接走进了云层",
+      "category": "太空发现",
+      "source": "NASA · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://www.nasa.gov/news-release/nasas-cassini-spacecraft-ends-its-historic-exploration-of-saturn/",
+      "verification": "verified-primary",
+      "originalTitle": "NASA’s Cassini Spacecraft Ends Its Historic Exploration of Saturn",
+      "eventDate": "2017-09-15",
+      "options": [
+        "木星探测器在地球云层中接受回收",
+        "卡西尼进入土星大气并结束探测任务",
+        "卡西尼穿过火星云层后重新进入轨道",
+        "土卫六着陆器离开地表飞回土星环"
+      ],
+      "correct": 1,
+      "body": "2017年9月15日，卡西尼探测器进入土星大气，结束任务，并在最后下降过程中继续传回科学数据。",
+      "joke": "最后一程也在认真交作业。",
+      "trick": "先确认对象，再判断结局。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "先确认对象，再判断结局。",
+        "fact": "2017年9月15日，卡西尼探测器进入土星大气，结束任务，并在最后下降过程中继续传回科学数据。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "NASA：正文依据",
+            "url": "https://www.nasa.gov/news-release/nasas-cassini-spacecraft-ends-its-historic-exploration-of-saturn/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-liangzhu",
+      "title": "城墙、水利和玉器，拼出了更早的城市",
+      "category": "考古线索",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1592/",
+      "verification": "verified-primary",
+      "originalTitle": "Archaeological Ruins of Liangzhu City",
+      "eventDate": "2019",
+      "options": [
+        "三星堆新发现了完整的汉代城市街区",
+        "殷墟出土材料主要证明海上丝路贸易",
+        "良渚古城遗址展示史前稻作文明与早期城市",
+        "敦煌壁画首次绘出近代城市规划图"
+      ],
+      "correct": 2,
+      "body": "2019年列入世界遗产的良渚古城遗址，展示了史前稻作文明的城市、社会分化与信仰体系。",
+      "joke": "古城的履历，比身份证早多了。",
+      "trick": "遗址的年代不能靠名字猜。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "遗址的年代不能靠名字猜。",
+        "fact": "2019年列入世界遗产的良渚古城遗址，展示了史前稻作文明的城市、社会分化与信仰体系。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1592/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-canal",
+      "title": "这条“运输线”，走的不是火车",
+      "category": "水利生活",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1443/",
+      "verification": "verified-primary",
+      "originalTitle": "The Grand Canal",
+      "eventDate": "2014",
+      "options": [
+        "丝绸之路遗产由一条连续人工河组成",
+        "都江堰的主要功能是跨省铁路货运",
+        "郑和下西洋留下了直通北京的海底隧道",
+        "大运河是承担粮食等物资运输的水道系统"
+      ],
+      "correct": 3,
+      "body": "2014年列入世界遗产的大运河，是历代分段修建的水道系统，曾承担粮食等物资运输。",
+      "joke": "老物流网络，运力在水上。",
+      "trick": "“线路”也可能是水路。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "“线路”也可能是水路。",
+        "fact": "2014年列入世界遗产的大运河，是历代分段修建的水道系统，曾承担粮食等物资运输。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1443/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-tulou",
+      "title": "很多人住一栋，外面还围成了圈",
+      "category": "建筑见闻",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1113/",
+      "verification": "verified-primary",
+      "originalTitle": "Fujian Tulou",
+      "eventDate": "2008",
+      "options": [
+        "福建土楼是有圆形和方形的共同居住建筑",
+        "开平碉楼全部是环形的单层集体住宅",
+        "哈尼蘑菇房是由海边珊瑚建成的公寓",
+        "苏州园林以封闭的圆形高层住宅为主"
+      ],
+      "correct": 0,
+      "body": "2008年列入世界遗产的福建土楼，是适合共同居住的夯土建筑，既有圆形，也有方形。",
+      "joke": "圆楼很抢镜，方楼也有姓名。",
+      "trick": "醒目的形状不代表全部。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "醒目的形状不代表全部。",
+        "fact": "2008年列入世界遗产的福建土楼，是适合共同居住的夯土建筑，既有圆形，也有方形。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1113/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-dujiangyan",
+      "title": "一套老设计，仍在给田里送水",
+      "category": "水利生活",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1001/",
+      "verification": "verified-primary",
+      "originalTitle": "Mount Qingcheng and the Dujiangyan Irrigation System",
+      "eventDate": "2000",
+      "options": [
+        "大运河的所有河道都被改作露天博物馆",
+        "都江堰的古代水利系统延续灌溉功能",
+        "良渚遗址的古水坝重新承担城市供电",
+        "北京中轴线沿线新建了统一供水水渠"
+      ],
+      "correct": 1,
+      "body": "2000年列入世界遗产的青城山与都江堰中，都江堰体现古代水利技术，其灌溉系统延续使用。",
+      "joke": "有些古董，工作还没退休。",
+      "trick": "历史价值和实际功能可以并存。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "历史价值和实际功能可以并存。",
+        "fact": "2000年列入世界遗产的青城山与都江堰中，都江堰体现古代水利技术，其灌溉系统延续使用。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1001/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-kaiping",
+      "title": "这栋村屋的外观，像有两套设计语言",
+      "category": "建筑见闻",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1112/",
+      "verification": "verified-primary",
+      "originalTitle": "Kaiping Diaolou and Villages",
+      "eventDate": "2007",
+      "options": [
+        "福建土楼因全部采用西式玻璃幕墙入选",
+        "平遥古城的城墙由近代欧洲团队整体重建",
+        "开平碉楼的防御性村屋融合中西建筑形式",
+        "龙门石窟的全部洞窟改造成现代住宅"
+      ],
+      "correct": 2,
+      "body": "2007年列入世界遗产的开平碉楼与村落，包含多层防御性村屋，建筑呈现中西形式的融合。",
+      "joke": "村屋也可以有跨文化审美。",
+      "trick": "外观相似不等于用途相同。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "外观相似不等于用途相同。",
+        "fact": "2007年列入世界遗产的开平碉楼与村落，包含多层防御性村屋，建筑呈现中西形式的融合。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1112/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-yinxu",
+      "title": "字写在骨头上，留下了一个时代的证词",
+      "category": "考古线索",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1114/",
+      "verification": "verified-primary",
+      "originalTitle": "Yin Xu",
+      "eventDate": "2006",
+      "options": [
+        "良渚玉器上的长篇汉字记载唐代商业",
+        "敦煌藏经洞以宋代金属活字印刷为唯一内容",
+        "秦始皇陵的兽骨上保存了完整清代地图",
+        "殷墟出土的甲骨铭文记录商代文字与历史"
+      ],
+      "correct": 3,
+      "body": "2006年列入世界遗产的殷墟位于河南安阳。遗址出土的甲骨铭文为商代历史和早期文字提供证据。",
+      "joke": "这回的文字载体不是纸。",
+      "trick": "找到材料和时代，才读得懂发现。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "找到材料和时代，才读得懂发现。",
+        "fact": "2006年列入世界遗产的殷墟位于河南安阳。遗址出土的甲骨铭文为商代历史和早期文字提供证据。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1114/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-fanjing",
+      "title": "这座“岛”，周围却不是海水",
+      "category": "自然观察",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1559/",
+      "verification": "verified-primary",
+      "originalTitle": "Fanjingshan",
+      "eventDate": "2018",
+      "options": [
+        "梵净山是喀斯特地区中的变质岩之岛",
+        "黄龙彩池是太平洋中新形成的火山岛",
+        "福建土楼所在村庄整体漂浮在海面",
+        "可可西里由珊瑚礁抬升形成海岛森林"
+      ],
+      "correct": 0,
+      "body": "2018年列入世界遗产的贵州梵净山，被描述为喀斯特地区中的变质岩之岛，并保有独特的生物多样性。",
+      "joke": "地质里的“岛”，不用坐船去。",
+      "trick": "比喻不能直接当成地理位置。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "比喻不能直接当成地理位置。",
+        "fact": "2018年列入世界遗产的贵州梵净山，被描述为喀斯特地区中的变质岩之岛，并保有独特的生物多样性。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1559/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-birds",
+      "title": "沿海的“中转站”，旅客不用买机票",
+      "category": "自然观察",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1606/",
+      "verification": "verified-primary",
+      "originalTitle": "Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China",
+      "eventDate": "2019",
+      "options": [
+        "可可西里的草原主要供海鸟越冬潜水",
+        "沿海潮间带湿地是迁徙水鸟的重要停歇地",
+        "大运河的新码头专供海洋哺乳动物换乘",
+        "福建土楼的屋顶是所有候鸟的统一繁殖地"
+      ],
+      "correct": 1,
+      "body": "中国黄海、渤海沿海候鸟栖息地在2019年首期列入世界遗产，潮间带湿地为迁徙水鸟提供停歇栖息地。",
+      "joke": "天然候机厅，登机牌是翅膀。",
+      "trick": "“旅客”和“中转站”可能是拟人。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "“旅客”和“中转站”可能是拟人。",
+        "fact": "中国黄海、渤海沿海候鸟栖息地在2019年首期列入世界遗产，潮间带湿地为迁徙水鸟提供停歇栖息地。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。此题仅采用2019年首期列入与湿地功能，不把2024年扩展范围写成2019年范围。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1606/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-mogao",
+      "title": "洞里的画，一路记录了千年交流",
+      "category": "艺术见闻",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/440/",
+      "verification": "verified-primary",
+      "originalTitle": "Mogao Caves",
+      "eventDate": "1987",
+      "options": [
+        "开平碉楼以保存完整汉代洞窟壁画著称",
+        "良渚古城的所有玉器均来自中世纪欧洲",
+        "莫高窟的壁画与雕塑见证丝路上的文化交流",
+        "都江堰水渠内部绘有完整海洋航行地图"
+      ],
+      "correct": 2,
+      "body": "1987年列入世界遗产的莫高窟位于丝绸之路重要节点，壁画与雕塑记录了长期的艺术和文化交流。",
+      "joke": "洞窟很安静，交流史很热闹。",
+      "trick": "作品要放回它的交流背景。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "作品要放回它的交流背景。",
+        "fact": "1987年列入世界遗产的莫高窟位于丝绸之路重要节点，壁画与雕塑记录了长期的艺术和文化交流。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/440/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-wuyi",
+      "title": "这座山入选，凭的不止是风景",
+      "category": "自然观察",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/911/",
+      "verification": "verified-primary",
+      "originalTitle": "Mount Wuyi",
+      "eventDate": "1999",
+      "options": [
+        "梵净山因拥有完整海港货运系统成为文化遗产",
+        "黄龙因每年举行赛车比赛被列入世界遗产",
+        "大运河只以未经人类活动的原始森林入选",
+        "武夷山同时具有自然与文化遗产价值"
+      ],
+      "correct": 3,
+      "body": "1999年列入世界遗产的武夷山，同时具有自然与文化价值，涉及生物多样性、山水景观和文化遗存。",
+      "joke": "风景拿分，文化也拿分。",
+      "trick": "遗产价值可以有多个维度。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "遗产价值可以有多个维度。",
+        "fact": "1999年列入世界遗产的武夷山，同时具有自然与文化价值，涉及生物多样性、山水景观和文化遗存。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/911/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-panda",
+      "title": "名字里是熊猫，保护的却不只熊猫",
+      "category": "自然观察",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1213/",
+      "verification": "verified-primary",
+      "originalTitle": "Sichuan Giant Panda Sanctuaries - Wolong, Mt Siguniang and Jiajin Mountains",
+      "eventDate": "2006",
+      "options": [
+        "四川大熊猫栖息地也保护其他动植物的生境",
+        "熊猫栖息地只允许熊猫一种动物生活",
+        "所有野生熊猫被统一迁入室内动物园",
+        "保护区的树木只种植一种竹子且没有其他植物"
+      ],
+      "correct": 0,
+      "body": "2006年列入世界遗产的四川大熊猫栖息地，除大熊猫之外，还为小熊猫、雪豹等多种动植物提供生境。",
+      "joke": "主角是熊猫，演员表很长。",
+      "trick": "名字突出主角，不等于排除其他对象。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "名字突出主角，不等于排除其他对象。",
+        "fact": "2006年列入世界遗产的四川大熊猫栖息地，除大熊猫之外，还为小熊猫、雪豹等多种动植物提供生境。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1213/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-huanglong",
+      "title": "这些彩池，靠的不是人工调色",
+      "category": "自然观察",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/638/",
+      "verification": "verified-primary",
+      "originalTitle": "Huanglong Scenic and Historic Interest Area",
+      "eventDate": "1992",
+      "options": [
+        "黄龙景区每年用油漆统一涂出彩池颜色",
+        "黄龙的彩池与钙华等自然地貌有关",
+        "武夷山九曲溪通过人工玻璃铺底呈现水色",
+        "福建土楼的天井全部改建为彩色游泳池"
+      ],
+      "correct": 1,
+      "body": "1992年列入世界遗产的四川黄龙，以钙华池、瀑布和石灰岩滩等地貌景观著称。",
+      "joke": "自然的调色盘，不卖颜料。",
+      "trick": "景观颜色先看形成机制。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "景观颜色先看形成机制。",
+        "fact": "1992年列入世界遗产的四川黄龙，以钙华池、瀑布和石灰岩滩等地貌景观著称。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/638/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-hani",
+      "title": "山顶到田里，一套系统把水接了下来",
+      "category": "水利生活",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1111/",
+      "verification": "verified-primary",
+      "originalTitle": "Cultural Landscape of Honghe Hani Rice Terraces",
+      "eventDate": "2013",
+      "options": [
+        "开平碉楼把每家屋顶统一改作灌溉梯田",
+        "良渚古城的新水渠专门运输海水灌溉水稻",
+        "哈尼梯田的森林、水系、村寨与农田形成整体",
+        "莫高窟依靠洞内地下河种植大面积红米"
+      ],
+      "correct": 2,
+      "body": "2013年列入世界遗产的红河哈尼梯田文化景观，体现森林、水系、村寨与梯田相互联系的农业系统。",
+      "joke": "好看的梯田，背后有水的路线图。",
+      "trick": "景观背后也可能是协作系统。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "景观背后也可能是协作系统。",
+        "fact": "2013年列入世界遗产的红河哈尼梯田文化景观，体现森林、水系、村寨与梯田相互联系的农业系统。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1111/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "r-hohxil",
+      "title": "这条迁徙路线，终点是迎接新生命",
+      "category": "自然观察",
+      "source": "UNESCO世界遗产中心 · 已核验历史素材，游戏标题改写",
+      "real": true,
+      "sourceUrl": "https://whc.unesco.org/en/list/1540/",
+      "verification": "verified-primary",
+      "originalTitle": "Qinghai Hoh Xil",
+      "eventDate": "2017",
+      "options": [
+        "四川熊猫每年集体迁往沿海潮间带产仔",
+        "梵净山的金丝猴每年迁入海底洞穴繁殖",
+        "黄龙彩池是企鹅跨洲迁徙的唯一终点",
+        "可可西里保护藏羚羊迁徙和集中产仔的区域"
+      ],
+      "correct": 3,
+      "body": "2017年列入世界遗产的青海可可西里，保护藏羚羊的迁徙与产仔区域，体现高原生态过程。",
+      "joke": "长途跋涉，是为了下一代。",
+      "trick": "迁徙目的不能只靠热闹标题猜。",
+      "learning": {
+        "kind": "素材小知识",
+        "title": "迁徙目的不能只靠热闹标题猜。",
+        "fact": "2017年列入世界遗产的青海可可西里，保护藏羚羊的迁徙与产仔区域，体现高原生态过程。",
+        "detail": "正文依据官方页面独立整理，游戏标题、干扰项和吐槽为原创改写。事件日期为上述历史事件日期；世界遗产题的年份指列入名录，不是遗址建造年份。",
+        "checkedOn": "2026-10-03",
+        "sources": [
+          {
+            "name": "UNESCO世界遗产中心：正文依据",
+            "url": "https://whc.unesco.org/en/list/1540/"
+          }
+        ]
+      }
+    }
+  ]
+}
