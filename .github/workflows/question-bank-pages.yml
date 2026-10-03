@@ -1,0 +1,45 @@
+name: Publish verified question bank
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: question-bank-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify distribution matches audited source
+        run: |
+          node --input-type=module <<'NODE'
+          import {readFileSync} from 'node:fs';
+          import {createHash} from 'node:crypto';
+          import assert from 'node:assert/strict';
+          const live=readFileSync('distribution/question-pack.json');
+          const manifest=JSON.parse(readFileSync('distribution/manifest.json'));
+          assert.equal(createHash('sha256').update(live).digest('hex'),manifest.sha256);
+          assert.equal(live.length,manifest.bytes);
+          assert.equal(JSON.parse(live).revision,manifest.revision);
+          assert.equal(JSON.parse(live).questions.length,manifest.questionCount);
+          assert.deepEqual(readFileSync('distribution/'+manifest.archivePath),live);
+          NODE
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: distribution
+      - name: Deploy question bank
+        id: deployment
+        uses: actions/deploy-pages@v4
