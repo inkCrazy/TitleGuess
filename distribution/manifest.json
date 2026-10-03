@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "revision": 3,
+  "name": "历史新闻与文化素材·32条核验题",
+  "publishedOn": "2026-10-03",
+  "questionCount": 32,
+  "path": "question-pack.json",
+  "archivePath": "packs/question-pack-v3.json",
+  "bytes": 54869,
+  "sha256": "cd0b4b17c30a7475b9a29fd008226f09e3f34e7aefafb1ec3b8d33cda853df0e"
+}
